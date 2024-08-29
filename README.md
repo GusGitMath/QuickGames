@@ -1,14 +1,26 @@
-Some random small games I made.
+# Small Games Collection
 
-DICE ROLL
-Code I wrote that takes in m dice and rolls them m times.
-It can return a list of all the rolls, frequency of the values rolled, and a histogram.
+This repository contains a few small games I created for fun. Each game is simple, but they demonstrate some basic concepts in programming and randomization.
 
-GUESS NUMBER
-A small game, just guess the number!
+## Games Overview
 
-RANDOM WALK
-Code similar to DICE ROLL but is based on a random step of either moving forward or backward.
+### DICE ROLL
 
-If you found this helpful please give credit to Math & Physics Fun with Gus.
-Thank you.
+This program simulates rolling `m` dice `m` times. It provides the following features:
+- **Roll Results:** Returns a list of all the rolls.
+- **Frequency Analysis:** Shows the frequency of each value rolled.
+- **Histogram:** Plots a histogram of the roll results.
+
+### GUESS THE NUMBER
+
+A classic number guessing game. The objective is simple: guess the randomly generated number!
+
+### RANDOM WALK
+
+Similar in concept to the DICE ROLL, this program simulates a random walk. The walk consists of a series of steps where each step can either move forward or backward.
+
+## Credits
+
+If you find these games helpful or interesting, please consider giving credit to *Math & Physics Fun with Gus*.
+
+Thank you for your support!
